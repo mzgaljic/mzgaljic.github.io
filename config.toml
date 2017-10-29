@@ -20,7 +20,7 @@ pygmentsCodefences = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "Mark Zgaljic's Dev Blog"
+description = "Code, tutorials, and thoughts on the tech i'm using."
 title404 = "Nothing's here!"
 
 [params.assets]
@@ -59,9 +59,9 @@ titleSeparator = "•"
 codepen = ""
 email = ""
 facebook = ""
-github = "https://github.com/mzgaljic"
+github = "mzgaljic"
 instagram = ""
-linkedin = "www.linkedin.com/in/mzgaljic"
+linkedin = "mzgaljic"
 twitter = ""
 
 [params.social.config]
